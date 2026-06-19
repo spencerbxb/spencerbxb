@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spencerbxb" alt="spencerbxb" /></a> </p>
 
-- 🌱 I’m currently learning **C, C++, and Python**
+- 🌱 I’m currently learning **Javascript, HTML, CSS, C, C++, and Python**
 
 - ❓ Questions regarding my program, projects, or anything else? **Feel free to ask me on my email at spencerneumayer@gmail.com**
 
